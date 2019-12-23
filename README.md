@@ -37,6 +37,10 @@ Follow the process described in the course to `eb init` a new application and `e
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
 
+########################
+Quick Access to Project
+Environment ID: e-nc7xpqtswg, URL: udacity-c2-image-filter.ap-south-1.elasticbeanstalk.com
+
 ### Authentication
 
 Prevent requests without valid authentication headers.
